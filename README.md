@@ -43,17 +43,6 @@ I am a **Python Developer** and **Creative Web Designer** from the coaching capi
 
 ---
 
-### 📈 GitHub Journey
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketbuildss&theme=tokyonight&hide_border=true" alt="sanketbuildss streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanketbuildss/sanketbuildss/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 🎵 Beyond the Terminal
 When the IDE is closed, I’m:
 * 🎤 **Singing** to find my rhythm.
