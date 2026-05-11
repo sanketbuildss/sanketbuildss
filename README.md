@@ -1,56 +1,57 @@
-# Hi there, I'm Sanket! 👋
+# <p align="center">✨ Namaste! I'm Sanket Sharma ✨</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanketbuildss&label=Profile%20Views&color=0e75b6&style=flat" alt="sanketbuildss" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sanket%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
-### 🚀 Python Developer & Creative Web Designer
-I bridge the gap between robust backend logic and clean, modern aesthetics. With a professional background in **Web Design**, I focus on building digital experiences that are not only functional but also visually compelling.
+## 📍 Based in Kota, Rajasthan
+I am a **Python Developer** and **Creative Web Designer** from the coaching capital of India, Kota. Being from a city known for its competitive spirit, I bring that same dedication to building robust backend systems and visually stunning web interfaces.
 
-- 🔭 **Current Focus:** Deep diving into **DSA**, **Cloud Computing**, and mastering **Firebase** internals.
-- 🌱 **Learning:** Exploring scalable architecture and serverless workflows.
-- ⚡ **Fun Fact:** When I'm not coding, you'll find me **singing** or lost in the pages of a **book**.
-
----
-
-### 🛠 Tech Stack
-
-**Languages & Core:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Frontend & Design:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools & Backend:**
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- 🔭 **Current Focus:** Cracking **DSA** patterns and exploring the power of **Cloud Computing**.
+- 🛠️ **Expertise:** Bridging the gap between code logic and user experience.
+- ⚡ **Philosophy:** "Clean code, creative design, and continuous learning."
 
 ---
 
-### 📂 Featured Projects
+### 🛠️ My Technical Arsenal
 
-#### 🏠 Roomzy Web App
-*A specialized platform designed to simplify the search for living spaces.*
-- **Core Tech:** Built with a focus on seamless UI/UX and efficient data handling.
-- **Key Features:** Real-time listings and a user-friendly interface that reduces the friction of finding rentals. It showcases my ability to handle complex user flows and database integration.
-
-#### 💰 Expenses Pro
-*A professional-grade financial tracking application.*
-- **Core Tech:** Python & Web Technologies integrated with Firebase for real-time data persistence.
-- **Key Features:** Features intuitive expense logging, categorized spending insights, and secure user authentication. Designed to help users take control of their finances with a clean, clutter-free dashboard.
+| Category | Skills |
+| :--- | :--- |
+| **Backend & Logic** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Frontend & UI/UX** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Database & Cloud** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Cloud](https://img.shields.io/badge/-Cloud--Computing-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
-### 🤝 Connect with me
+### 🚀 Featured Projects
+
+#### 🏠 [Roomzy Web App](https://github.com/sanketbuildss)
+*A smart solution for urban living and room discovery.*
+- **Tech:** Python, Responsive Web Design, Firebase.
+- **Goal:** To simplify the room-hunting experience with a focus on UI/UX and real-time data sync.
+
+#### 💰 [Expenses Pro](https://github.com/sanketbuildss)
+*Professional financial tracking for modern users.*
+- **Tech:** Python & Firebase Integration.
+- **Goal:** Providing users with an intuitive dashboard to manage expenses with zero latency and high security.
+
+---
+
+### 🎵 Beyond the Terminal
+When the IDE is closed, I'm likely:
+* 🎤 **Singing** to unwind.
+* 📖 **Reading** books on technology and growth.
+* 🏸 Mastering the smash on the **Badminton** court.
+
+---
+
+### 📬 Connect with Me
 <p align="left">
-<a href="https://www.instagram.com/sanket.web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanket.web" height="30" width="40" /></a>
-<a href="https://wa.me/916367317712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="6367317712" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/sanket.web"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/916367317712"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
----
-*Built with ❤️ and a lot of Python.*
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
