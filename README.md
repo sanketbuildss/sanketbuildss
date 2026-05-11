@@ -1,78 +1,77 @@
-# <p align="center">✨ Coding with Logic, Designing with Passion ✨</p>
+# <p align="center">✨ Namaste! I'm Sanket Sharma ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Sanket%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Python%20Developer%20|%20Creative%20Web%20Designer&descAlignY=60&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sanket%20Sharma&fontSize=75&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Creative%20Web%20Designer&descSize=25&descAlignY=60" width="100%" />
 </p>
 
-## 🧑‍💻 About Me
-Hello! I'm **Sanket Sharma**, a tech-enthusiast based in the heart of the education hub — **Kota, Rajasthan**. 📍
-
-I specialize in building **robust backend systems** with Python while ensuring the **frontend is pixel-perfect**. My journey is a blend of logical problem solving and creative aesthetics. Currently, I'm scaling my skills in **DSA** and **Cloud Infrastructure**.
+## 📍 Based in Kota, Rajasthan
+I am a **Python Developer** and **Creative Web Designer** from the coaching capital of India, Kota. I bring that signature "Kota Competitive Spirit" to building robust backend systems and visually stunning web interfaces.
 
 ---
 
-### 🚀 Tech Stack & Skills
-
-<table align="center">
-  <tr>
-    <td align="center" width="250"><strong>Backend & Systems</strong></td>
-    <td align="center" width="250"><strong>Design & Frontend</strong></td>
-    <td align="center" width="250"><strong>Cloud & Tools</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py,c,cpp" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,figma" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=firebase,git,github,gcp" />
-    </td>
-  </tr>
-</table>
+### 🚀 Quick Overview
+- 🔭 **Current Focus:** Cracking **DSA** patterns & mastering **Cloud Computing**.
+- 🛠️ **Expertise:** Seamlessly bridging the gap between logic and pixel-perfect design.
+- ⚡ **Philosophy:** "Code that scales, Design that breathes."
 
 ---
 
-### 📂 Top Tier Projects
+### 🛠️ My Technical Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend & Logic** | <img src="https://skillicons.dev/icons?i=py,c,cpp" /> |
+| **Frontend & UI/UX** | <img src="https://skillicons.dev/icons?i=html,css,js,figma" /> |
+| **Database & Cloud** | <img src="https://skillicons.dev/icons?i=firebase,gcp" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
+
+---
+
+### 📂 Featured Projects
 
 #### 🏠 [Roomzy Web App](https://github.com/sanketbuildss)
-> *Solving the urban housing struggle.*
-- **Core:** Python Backend | Modern UI.
-- **Impact:** Created a seamless interface for room discovery in fast-paced cities, focusing on user-centric design and real-time database management via Firebase.
+> *A smart solution for urban living.*
+- **Tech Stack:** Python, Responsive Web Design, Firebase.
+- **Goal:** To simplify the room-hunting experience with a focus on UI/UX and real-time data sync.
+- **Highlight:** Handled complex real-time search filters with zero latency.
 
 #### 💰 [Expenses Pro](https://github.com/sanketbuildss)
-> *Personal finance, simplified.*
-- **Core:** Firebase Auth | Python Logic.
-- **Impact:** A high-performance web app that tracks every penny with precision. It features dynamic data visualization to help users understand their spending habits instantly.
+> *Financial management made intuitive.*
+- **Tech Stack:** Python & Firebase Integration.
+- **Goal:** Providing users with an intuitive dashboard to manage expenses with high security.
+- **Highlight:** Integrated Firebase Auth for secure, cross-device data persistence.
 
 ---
 
-### 🎯 My Roadmap for 2026
-- [ ] Mastering **Data Structures & Algorithms** for optimized code.
-- [ ] Scaling applications using **Cloud Computing** (GCP/AWS).
-- [ ] Exploring the intersection of **AI and Web Design**.
+### 📈 GitHub Journey
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketbuildss&theme=tokyonight&hide_border=true" alt="sanketbuildss streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanketbuildss/sanketbuildss/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-### 🎨 Life Outside the Terminal
-When I'm not pushing code, you'll find me:
-- 🎤 **Singing** (Music is my escape)
-- 📚 **Reading** (Continuous learning is the key)
-- 🏸 **Badminton** (For that physical and mental smash!)
+### 🎵 Beyond the Terminal
+When the IDE is closed, I’m:
+* 🎤 **Singing** to find my rhythm.
+* 📖 **Reading** books on tech evolution & personal growth.
+* 🏸 Mastering the smash on the **Badminton** court.
 
 ---
 
-### 🤝 Let's Collaborate
+### 📬 Let's Connect & Collaborate
 <p align="left">
-<a href="https://www.instagram.com/sanket.web" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sanket.web" /></a>
-<a href="https://wa.me/916367317712" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="+916367317712" /></a>
+  <a href="https://www.instagram.com/sanket.web"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/916367317712"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/moca-p/moca-p/master/img/line-rainbow.gif" width="100%">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <i>"Design is not just what it looks like, design is how it works."</i>
+  <img src="https://raw.githubusercontent.com/moca-p/moca-p/master/img/line-rainbow.gif" width="100%">
 </p>
