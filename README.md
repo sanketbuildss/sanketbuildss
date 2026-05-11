@@ -10,9 +10,9 @@ I am a **Python Developer** and **Creative Web Designer** from the coaching capi
 ---
 
 ### 🚀 Quick Overview
-- 🔭 **Current Focus:** Cracking **DSA** patterns & mastering **Cloud Computing**.
-- 🛠️ **Expertise:** Seamlessly bridging the gap between logic and pixel-perfect design.
-- ⚡ **Philosophy:** "Code that scales, Design that breathes."
+- 🔭 **Current Focus:** Mastering **DSA** patterns & exploring **Cloud Computing** architectures.
+- 🛠️ **Expertise:** Bridging the gap between complex backend logic and pixel-perfect user experiences.
+- ⚡ **Philosophy:** "Code for performance, design for people."
 
 ---
 
@@ -30,22 +30,30 @@ I am a **Python Developer** and **Creative Web Designer** from the coaching capi
 ### 📂 Featured Projects
 
 #### 🏠 [Roomzy Web App](https://github.com/sanketbuildss)
-> *A smart solution for urban living.*
-- **Tech Stack:** Python, Responsive Web Design, Firebase.
-- **Goal:** To simplify the room-hunting experience with a focus on UI/UX and real-time data sync.
-- **Highlight:** Handled complex real-time search filters with zero latency.
+> **Modern Real Estate Discovery Platform**
+*Built to eliminate the struggle of finding rental accommodations in fast-paced cities.*
+
+- **Core Engineering:** Logic ko backend mein **Python** se handle kiya gaya hai, aur real-time data filtering ke liye **Firebase** ka use kiya hai.
+- **Key Features:** 
+    - **Smart Search:** Dynamic filters jo real-time mein listings update karte hain.
+    - **Mobile-First Design:** Ek responsive interface jo har device par pixel-perfect dikhta hai.
+- **Problem Solved:** Middle-men ki zarurat ko khatam karke users ko direct aur transparent platform provide kiya.
 
 #### 💰 [Expenses Pro](https://github.com/sanketbuildss)
-> *Financial management made intuitive.*
-- **Tech Stack:** Python & Firebase Integration.
-- **Goal:** Providing users with an intuitive dashboard to manage expenses with high security.
-- **Highlight:** Integrated Firebase Auth for secure, cross-device data persistence.
+> **Precision Financial Management Suite**
+*A high-performance web app designed for real-time personal finance tracking.*
+
+- **Core Engineering:** **Python** integration ke saath cloud-based data persistence (**Firebase**) ka use kiya gaya hai.
+- **Key Features:**
+    - **Secure Auth:** Multi-device sync ke liye robust authentication system.
+    - **Live Analytics:** Spending habits ka graphical view jo users ko budget control karne mein madad karta hai.
+- **Problem Solved:** Manual expense tracking ki boring process ko ek automated, secure, aur visually appealing experience mein convert kiya.
 
 ---
 
 ### 🎵 Beyond the Terminal
 When the IDE is closed, I’m:
-* 🎤 **Singing** to find my rhythm.
+* 🎤 **Singing** to find my creative rhythm.
 * 📖 **Reading** books on tech evolution & personal growth.
 * 🏸 Mastering the smash on the **Badminton** court.
 
