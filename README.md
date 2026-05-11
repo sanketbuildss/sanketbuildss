@@ -21,7 +21,7 @@ I am a **Python Developer** and **Creative Web Designer** from the coaching capi
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Backend & Logic** | <img src="https://skillicons.dev/icons?i=py,c,cpp" /> |
-| **Frontend & UI/UX** | <img src="https://skillicons.dev/icons?i=html,css,js,figma" /> |
+| **Frontend & UI/UX** | <img src="https://skillicons.dev/icons?i=html,css,js" /> |
 | **Database & Cloud** | <img src="https://skillicons.dev/icons?i=firebase,gcp" /> |
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
 
