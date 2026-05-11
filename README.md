@@ -1,57 +1,78 @@
-# <p align="center">✨ Namaste! I'm Sanket Sharma ✨</p>
+# <p align="center">✨ Coding with Logic, Designing with Passion ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sanket%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Sanket%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Python%20Developer%20|%20Creative%20Web%20Designer&descAlignY=60&descSize=25" width="100%" />
 </p>
 
-## 📍 Based in Kota, Rajasthan
-I am a **Python Developer** and **Creative Web Designer** from the coaching capital of India, Kota. Being from a city known for its competitive spirit, I bring that same dedication to building robust backend systems and visually stunning web interfaces.
+## 🧑‍💻 About Me
+Hello! I'm **Sanket Sharma**, a tech-enthusiast based in the heart of the education hub — **Kota, Rajasthan**. 📍
 
-- 🔭 **Current Focus:** Cracking **DSA** patterns and exploring the power of **Cloud Computing**.
-- 🛠️ **Expertise:** Bridging the gap between code logic and user experience.
-- ⚡ **Philosophy:** "Clean code, creative design, and continuous learning."
+I specialize in building **robust backend systems** with Python while ensuring the **frontend is pixel-perfect**. My journey is a blend of logical problem solving and creative aesthetics. Currently, I'm scaling my skills in **DSA** and **Cloud Infrastructure**.
 
 ---
 
-### 🛠️ My Technical Arsenal
+### 🚀 Tech Stack & Skills
 
-| Category | Skills |
-| :--- | :--- |
-| **Backend & Logic** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Frontend & UI/UX** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Database & Cloud** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Cloud](https://img.shields.io/badge/-Cloud--Computing-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+<table align="center">
+  <tr>
+    <td align="center" width="250"><strong>Backend & Systems</strong></td>
+    <td align="center" width="250"><strong>Design & Frontend</strong></td>
+    <td align="center" width="250"><strong>Cloud & Tools</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=py,c,cpp" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,figma" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=firebase,git,github,gcp" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Featured Projects
+### 📂 Top Tier Projects
 
 #### 🏠 [Roomzy Web App](https://github.com/sanketbuildss)
-*A smart solution for urban living and room discovery.*
-- **Tech:** Python, Responsive Web Design, Firebase.
-- **Goal:** To simplify the room-hunting experience with a focus on UI/UX and real-time data sync.
+> *Solving the urban housing struggle.*
+- **Core:** Python Backend | Modern UI.
+- **Impact:** Created a seamless interface for room discovery in fast-paced cities, focusing on user-centric design and real-time database management via Firebase.
 
 #### 💰 [Expenses Pro](https://github.com/sanketbuildss)
-*Professional financial tracking for modern users.*
-- **Tech:** Python & Firebase Integration.
-- **Goal:** Providing users with an intuitive dashboard to manage expenses with zero latency and high security.
+> *Personal finance, simplified.*
+- **Core:** Firebase Auth | Python Logic.
+- **Impact:** A high-performance web app that tracks every penny with precision. It features dynamic data visualization to help users understand their spending habits instantly.
 
 ---
 
-### 🎵 Beyond the Terminal
-When the IDE is closed, I'm likely:
-* 🎤 **Singing** to unwind.
-* 📖 **Reading** books on technology and growth.
-* 🏸 Mastering the smash on the **Badminton** court.
+### 🎯 My Roadmap for 2026
+- [ ] Mastering **Data Structures & Algorithms** for optimized code.
+- [ ] Scaling applications using **Cloud Computing** (GCP/AWS).
+- [ ] Exploring the intersection of **AI and Web Design**.
 
 ---
 
-### 📬 Connect with Me
+### 🎨 Life Outside the Terminal
+When I'm not pushing code, you'll find me:
+- 🎤 **Singing** (Music is my escape)
+- 📚 **Reading** (Continuous learning is the key)
+- 🏸 **Badminton** (For that physical and mental smash!)
+
+---
+
+### 🤝 Let's Collaborate
 <p align="left">
-  <a href="https://www.instagram.com/sanket.web"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://wa.me/916367317712"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.instagram.com/sanket.web" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sanket.web" /></a>
+<a href="https://wa.me/916367317712" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="+916367317712" /></a>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://raw.githubusercontent.com/moca-p/moca-p/master/img/line-rainbow.gif" width="100%">
+</p>
+
+<p align="center">
+  <i>"Design is not just what it looks like, design is how it works."</i>
 </p>
